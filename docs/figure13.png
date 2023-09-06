@@ -1,0 +1,159 @@
+Microsoft Windows [Version 10.0.22621.2134]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\feuba>CD ..
+
+C:\Users>CD ..
+
+C:\>dir
+ Volume in drive C is OS
+ Volume Serial Number is 9229-181E
+
+ Directory of C:\
+
+10/08/2022  11:42 AM    <DIR>          Apps
+05/14/2023  12:38 PM    <DIR>          dell
+10/08/2022  12:17 PM    <DIR>          Drivers
+09/05/2023  05:39 AM            12,288 DumpStack.log
+10/08/2022  12:15 PM    <DIR>          e-logo
+05/06/2022  10:24 PM    <DIR>          PerfLogs
+08/01/2023  10:11 PM    <DIR>          Program Files
+09/05/2023  05:44 AM    <DIR>          Program Files (x86)
+09/03/2023  05:25 PM    <DIR>          python_class
+11/06/2022  04:26 PM    <DIR>          Users
+09/05/2023  09:28 PM    <DIR>          Windows
+               1 File(s)         12,288 bytes
+              10 Dir(s)  733,201,047,552 bytes free
+
+C:\>cd python_class
+
+C:\python_class>dir
+ Volume in drive C is OS
+ Volume Serial Number is 9229-181E
+
+ Directory of C:\python_class
+
+09/03/2023  05:25 PM    <DIR>          .
+09/02/2023  08:34 PM    <DIR>          .idea
+07/19/2023  06:53 PM    <DIR>          Assignment01
+07/19/2023  06:50 PM    <DIR>          Module02 - Simple Data Processing
+08/03/2023  05:59 PM    <DIR>          Module03 - Programming Basics
+08/20/2023  08:59 AM    <DIR>          Module04 - Collections
+08/27/2023  12:16 PM    <DIR>          Module05 - Lists and Dictionaries
+09/03/2023  05:17 PM    <DIR>          Module06- Functions
+09/05/2023  10:01 PM    <DIR>          Module07 - Files and Exceptions
+09/03/2023  05:25 PM    <DIR>          Module08 - Classes and Objects
+07/10/2023  08:48 PM                38 New Text Document.bat
+07/10/2023  08:20 PM                27 New_Text_Document.bat
+07/24/2023  07:18 PM    <DIR>          PyCharm 2023.1.4
+07/01/2023  05:56 AM    <DIR>          Pytho3_11
+07/01/2023  05:59 AM        25,426,160 python-3.11.4-amd64.exe
+               3 File(s)     25,426,225 bytes
+              12 Dir(s)  733,200,982,016 bytes free
+
+C:\python_class>cd "Module07 - Files and Exceptions"
+
+C:\python_class\Module07 - Files and Exceptions>dir
+ Volume in drive C is OS
+ Volume Serial Number is 9229-181E
+
+ Directory of C:\python_class\Module07 - Files and Exceptions
+
+09/05/2023  10:01 PM    <DIR>          .
+09/03/2023  05:25 PM    <DIR>          ..
+09/03/2023  05:17 PM         1,676,791 Assigment7_ArmandFeuba.py
+09/05/2023  10:01 PM    <DIR>          Assignment
+08/30/2023  01:36 AM    <DIR>          LabFiles
+09/02/2023  08:45 PM    <DIR>          report_Module7
+08/30/2023  01:36 AM         1,028,846 _Mod7PythonProgrammingNotes.docx
+               2 File(s)      2,705,637 bytes
+               5 Dir(s)  733,201,043,456 bytes free
+
+C:\python_class\Module07 - Files and Exceptions>cd report_Module7
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>dir
+ Volume in drive C is OS
+ Volume Serial Number is 9229-181E
+
+ Directory of C:\python_class\Module07 - Files and Exceptions\report_Module7
+
+09/02/2023  08:45 PM    <DIR>          .
+09/05/2023  10:01 PM    <DIR>          ..
+09/02/2023  08:28 PM                 8 AppData.dat
+09/01/2023  10:24 AM                48 AppData.txt
+09/02/2023  08:45 PM             1,475 LAB 7-1- Working with binary files.py
+09/01/2023  09:59 AM               815 listing1.py
+09/01/2023  09:02 PM               911 listing10.py
+09/01/2023  10:07 AM             1,297 listing2.py
+09/01/2023  10:24 AM             1,775 listing3.py
+               7 File(s)          6,329 bytes
+               2 Dir(s)  733,201,027,072 bytes free
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>1775
+'1775' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>listing3.py
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>```
+'```' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7># ------------------------------------------------- #
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7># Title: Listing 13
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7># Description: A try-catch with manually raised errors
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7># ChangeLog: (Who, When, What)
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7># RRoot,1.1.2030,Created Script
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7># ------------------------------------------------- #
+'#' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>
+C:\python_class\Module07 - Files and Exceptions\report_Module7>try:
+'try:' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>    new_file_name = input("Enter the name of the file you want to make: ")
+'new_file_name' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>    if new_file_name.isnumeric():
+The syntax of the command is incorrect.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>        raise Exception('Do not use numbers for the file\'s name')
+'raise' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>except Exception as e:
+'except' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>    print("There was a non-specific error!")
+Unable to initialize device PRN
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>    print("Built-In Python error info: ")
+Unable to initialize device PRN
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>    print(e, e.__doc__, type(e), sep='\n')
+Unable to initialize device PRN
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>```
+'```' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\python_class\Module07 - Files and Exceptions\report_Module7>1775
